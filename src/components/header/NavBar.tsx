@@ -3,12 +3,18 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 
+
+
 export default function NavBar() {
   const [isClick, setisClick] = React.useState(false);
+  
 
   const toggleNavbar = (): void => {
     setisClick(!isClick);
   };
+
+
+  
 
   return (
     <>
@@ -34,21 +40,39 @@ export default function NavBar() {
                   href="https://www.linkedin.com/company/purrfect-hire/mycompany/"
                   target="_blank"
                   className="text-indigo-800 font-medium text-lg hover:bg-white rounded-lg p-2">
-                  Follow Us
+                  LinkedIn
                 </a>
 
                 <a
                   href="#about-section"
                   className="text-indigo-800 font-medium text-lg hover:bg-white rounded-lg p-2">
-                  About
+                  Nosotros
                 </a>
 
                 <a
                   href="https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
                   target="_blank"
                   className="text-indigo-800 font-medium text-lg hover:bg-white rounded-lg p-2">
-                  Careers
+                  Posiciones
                 </a>
+                <a
+  href="https://latam.purrfecthire.com/"
+  target="_self"
+  className="text-indigo-800 font-medium text-lg hover:bg-white rounded-lg p-2 flex items-center"
+>
+  <img
+    src="https://cdn.weglot.com/flags/square/gb.svg"
+    width="20"
+    height="20"
+    alt="Spain flag"
+    className="wg-flag mr-2"
+  />
+  <span>EN</span>
+</a>
+
+
+                
+                
               </div>
             </div>
 
@@ -97,21 +121,35 @@ export default function NavBar() {
                 href="https://www.linkedin.com/company/purrfect-hire/mycompany/"
                 target="_blank"
                 className="text-indigo-800 font-medium text-lg block hover:bg-white rounded-lg p-2">
-                Follow Us
+                LinkedIn
               </a>
 
               <a
                 href="#about-section"
                 className="text-indigo-800 font-medium text-lg block hover:bg-white rounded-lg p-2">
-                About
+                Nosotros
               </a>
-
               <a
                 href="https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
-                target="_blank"
-                className="text-indigo-800 font-medium text-lg hover:bg-white block rounded-lg p-2">
-                Careers
+                className="text-indigo-800 font-medium text-lg block hover:bg-white rounded-lg p-2">
+                Posiciones
               </a>
+
+<a
+  href="https://latam.purrfecthire.com/"
+  target="_self"
+  className="text-indigo-800 font-medium text-lg hover:bg-white rounded-lg p-2 flex items-center"
+>
+  <img
+    src="https://cdn.weglot.com/flags/square/gb.svg"
+    width="20"
+    height="20"
+    alt="English flag"
+    className="wg-flag mr-2"
+  />
+  <span>EN</span>
+</a>
+
             </div>
           </div>
         )}
