@@ -56,7 +56,7 @@ export default function NavBar() {
                   Posiciones
                 </a>
                 <a
-  href="https://latam.purrfecthire.com/"
+  href="https://purrfecthire.com/"
   target="_self"
   className="text-indigo-800 font-medium text-lg hover:bg-white rounded-lg p-2 flex items-center"
 >
@@ -66,6 +66,7 @@ export default function NavBar() {
     height="20"
     alt="Spain flag"
     className="wg-flag mr-2"
+    
   />
   <span>EN</span>
 </a>
@@ -136,7 +137,7 @@ export default function NavBar() {
               </a>
 
 <a
-  href="https://latam.purrfecthire.com/"
+  href="https://purrfecthire.com/"
   target="_self"
   className="text-indigo-800 font-medium text-lg hover:bg-white rounded-lg p-2 flex items-center"
 >
