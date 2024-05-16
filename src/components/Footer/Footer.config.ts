@@ -15,7 +15,11 @@ export const FOOTER_LINKS = [
         link: "#about-section",
       },
       {
-        tittle: "Poriciones abiertas",
+        tittle: "Posiciones abiertas",
+        link: "#open-roles-section",
+      },
+      {
+        tittle: "Términos y condiciones",
         link: "#open-roles-section",
       },
     ],

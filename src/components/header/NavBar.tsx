@@ -131,7 +131,7 @@ export default function NavBar() {
                 Nosotros
               </a>
               <a
-                href="https://docs.google.com/forms/d/e/1FAIpQLSeM8oGUFhxN0n9WzBP4m0-IK-99EMBe01pdljwvWJ2hbousQw/viewform"
+                href="https://forms.gle/tZ1mtHys6kLoYQZc8"
                 className="text-indigo-800 font-medium text-lg block hover:bg-white rounded-lg p-2">
                 Posiciones
               </a>
