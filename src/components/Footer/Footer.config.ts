@@ -20,7 +20,7 @@ export const FOOTER_LINKS = [
       },
       {
         tittle: "Términos y condiciones",
-        link: "#open-roles-section",
+        link: "https://drive.google.com/file/d/1b3gi4lelrefD4CnZay4RZOZOiY1TwAM-/view",
       },
     ],
   },
