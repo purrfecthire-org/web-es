@@ -20,7 +20,7 @@ export const FOOTER_LINKS = [
       },
       {
         tittle: "Términos y condiciones",
-        link: "https://drive.google.com/file/d/1b3gi4lelrefD4CnZay4RZOZOiY1TwAM-/view",
+        link: "https://drive.google.com/file/d/1Jk72kh98OTQygnyPzdYjN6w_jnY1e9Dx/view?usp=sharing",
       },
     ],
   },
