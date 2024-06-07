@@ -22,7 +22,7 @@ export default function MainContent() {
               onClick={(event) =>
                 redirect(
                   event,
-                  "https://calendly.com/daniel-aguirred/purrfect-hire-eng?month=2024-03"
+                  "https://calendly.com/kate-forero/"
                 )
               }>
               Contacto
