@@ -8,34 +8,36 @@ import {
 
 export const FOOTER_LINKS = [
   {
-    title: "Información adicional",
+    title: "Learn More",
     links: [
+
+
       {
-        tittle: "Acerca de Purrfect Hire",
+        tittle: "Terms and Conditions",
+        link: "https://drive.google.com/file/d/1b3gi4lelrefD4CnZay4RZOZOiY1TwAM-/view?usp=sharing",
+      },
+      {
+        tittle: "About Purrfect Hire",
         link: "#about-section",
       },
       {
-        tittle: "Posiciones abiertas",
+        tittle: "Open roles",
         link: "#open-roles-section",
-      },
-      {
-        tittle: "Términos y condiciones",
-        link: "https://drive.google.com/file/d/1Jk72kh98OTQygnyPzdYjN6w_jnY1e9Dx/view?usp=sharing",
       },
     ],
   },
 ];
 
 export const FOOTER_CONTACT_INFO = {
-  title: "Contacto",
+  title: "Contact Us",
   links: [
-    { label: "Para clientes", value: "sales@purrfecthire.com" },
-    { label: "Para candidatos", value: "hiring@purrfecthire.com" },
+    { label: "For Companies", value: "finance@purrfecthire.com" },
+    { label: "For Candidates", value: "hiring@purrfecthire.com" },
   ],
 };
 
 export const SOCIALS = {
-  title: "Social Media",
+  title: "Social",
   links: [
     {
       link: "https://www.facebook.com/purrfecthirehr",
