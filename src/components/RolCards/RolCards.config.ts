@@ -4,7 +4,7 @@ export const jobPosition: JobPosition[] = [
     country: "Colombia",
     modality: "Hybrid: Bogotá",
     salary: "120.000 - 150.000 USD",
-    skills: ["Technical Strategy", "Team Leadership", "Product Vision", "System Architecture", "Executive Management"],
+    skills: ["Technical Strategy", "Team Leadership", "System Architecture"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
@@ -12,7 +12,7 @@ export const jobPosition: JobPosition[] = [
     country: "México",
     modality: "Hybrid: Ciudad de México",
     salary: "90.000 - 120.000 USD",
-    skills: ["Sales Strategy", "Team Leadership", "Revenue Growth", "Market Expansion", "C-Level Relations"],
+    skills: ["Sales Strategy", "Team Leadership", "Revenue Growth"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
@@ -20,7 +20,7 @@ export const jobPosition: JobPosition[] = [
     country: "Argentina",
     modality: "On site: Buenos Aires",
     salary: "75.000 - 95.000 USD",
-    skills: ["Customer Experience Strategy", "Team Management", "Churn Reduction", "Account Growth", "Data Analytics"],
+    skills: ["Customer Experience", "Team Management", "Data Analytics"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
@@ -28,7 +28,7 @@ export const jobPosition: JobPosition[] = [
     country: "Chile",
     modality: "Hybrid: Santiago",
     salary: "70.000 - 90.000 USD",
-    skills: ["Process Optimization", "Team Leadership", "Project Management", "Strategic Planning", "Cross-Functional Coordination"],
+    skills: ["Process Optimization", "Team Leadership", "Project Management"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
@@ -36,7 +36,7 @@ export const jobPosition: JobPosition[] = [
     country: "Colombia",
     modality: "On site: Medellín",
     salary: "80.000 - 105.000 USD",
-    skills: ["Technical Leadership", "System Architecture", "Code Review", "Team Mentoring", "Full-Stack Development"],
+    skills: ["Technical Leadership", "System Architecture", "Team Mentoring"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   
@@ -45,7 +45,7 @@ export const jobPosition: JobPosition[] = [
     country: "Colombia",
     modality: "On site",
     salary: "18.000 - 24.000 USD",
-    skills: ["Marketing Automation", "Customer Journey", "Data Analytics", "Campaign Management", "Growth Hacking"],
+    skills: ["Marketing Automation", "Data Analytics", "Growth Hacking"],
     link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
   },
   {
@@ -53,7 +53,7 @@ export const jobPosition: JobPosition[] = [
     country: "Colombia",
     modality: "On site",
     salary: "60.000 - 80.000 USD",
-    skills: ["Cybersecurity", "Risk Management", "Compliance", "Security Architecture", "Team Leadership"],
+    skills: ["Cybersecurity", "Risk Management", "Security Architecture"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
@@ -61,7 +61,7 @@ export const jobPosition: JobPosition[] = [
     country: "Colombia",
     modality: "On site",
     salary: "30.000 - 36.000 USD",
-    skills: ["Business Strategy", "Partnership Development", "Market Analysis", "Negotiation", "Sales"],
+    skills: ["Business Strategy", "Partnership Development", "Market Analysis"],
     link: "https://www.linkedin.com/posts/kathforero_urgent-hiring-for-one-of-yc-backed-companies-activity-7355683884388229120-bk22?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGO1qcBAXHsrRgwTOjiZHAvC9XPiA5Kqok"
   },
   {
@@ -69,7 +69,7 @@ export const jobPosition: JobPosition[] = [
     country: "Colombia",
     modality: "On site",
     salary: "72.000 - 96.000 USD",
-    skills: ["React", "Node.js", "TypeScript", "Database Design", "API Development"],
+    skills: ["React", "Node.js", "TypeScript"],
     link: "https://www.linkedin.com/posts/kathforero_urgent-hiring-for-one-of-yc-backed-companies-activity-7355683884388229120-bk22?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGO1qcBAXHsrRgwTOjiZHAvC9XPiA5Kqok"
   },
   {
@@ -77,7 +77,7 @@ export const jobPosition: JobPosition[] = [
     country: "Latam",
     modality: "Remote",
     salary: "24.000 - 27.600 USD",
-    skills: ["Python", "API Development", "Database Design", "Cloud Computing", "Microservices"],
+    skills: ["Python", "API Development", "Cloud Computing"],
     link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
   },
   {
@@ -85,7 +85,7 @@ export const jobPosition: JobPosition[] = [
     country: "Latam",
     modality: "Remote",
     salary: "60.000 - 78.000 USD",
-    skills: ["React", "Node.js", "System Architecture", "Team Leadership", "DevOps"],
+    skills: ["React", "Node.js", "System Architecture"],
     link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
   },
   {
@@ -93,7 +93,7 @@ export const jobPosition: JobPosition[] = [
     country: "Latam",
     modality: "Remote",
     salary: "24.000 - 30.000 USD",
-    skills: ["SQL", "Python", "Data Visualization", "Statistical Analysis", "Business Intelligence"],
+    skills: ["SQL", "Python", "Data Visualization"],
     link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
   },
   {
@@ -101,7 +101,7 @@ export const jobPosition: JobPosition[] = [
     country: "Colombia",
     modality: "On site",
     salary: "24.000 - 36.000 USD",
-    skills: ["Sales Development", "Lead Generation", "CRM Management", "Cold Outreach", "Communication"],
+    skills: ["Sales Development", "Lead Generation", "CRM Management"],
     link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
   },
   {
@@ -109,7 +109,7 @@ export const jobPosition: JobPosition[] = [
     country: "Colombia",
     modality: "On site",
     salary: "18.000 - 24.000 USD",
-    skills: ["Digital Marketing", "Content Strategy", "Social Media", "Campaign Management", "Analytics"],
+    skills: ["Digital Marketing", "Content Strategy", "Social Media"],
     link: "https://www.linkedin.com/posts/daniela-d%C3%ADaz-010b9b243_buscas-un-trabajo-remoto-retador-y-con-activity-7355987705136095232-qyxK/?utm_source=share&utm_medium=member_ios&rcm=ACoAADyCl0wBofVz-JJP3zIKlIgIvlrcla17P7E"
   },
   {
@@ -117,7 +117,7 @@ export const jobPosition: JobPosition[] = [
     country: "Colombia",
     modality: "On site",
     salary: "60.000 - 90.000 USD",
-    skills: ["System Architecture", "Microservices", "Database Optimization", "Team Leadership", "DevOps"],
+    skills: ["System Architecture", "Microservices", "Team Leadership"],
     link: "https://www.linkedin.com/company/purrfect-hire/"
   },
   {
