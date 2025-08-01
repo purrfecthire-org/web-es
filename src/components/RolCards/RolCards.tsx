@@ -86,7 +86,7 @@ const RolCard = ({ rol }: { rol: JobPosition }) => (
         </a>
       </div>
       <Image
-        src={"/logo.png"}
+        src={rol.image_url}
         width={75}
         height={75}
         alt="imagen"
