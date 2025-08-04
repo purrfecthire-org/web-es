@@ -13,9 +13,9 @@ export default function Carrousel() {
       <div className="overflow-hidden w-full">
         <div className="flex whitespace-nowrap animate-scroll divide-calc">
           {IMAGES_CARROUSEL.map((image, index) => (
-            <div key={index}>
+            <div key={index} className="flex flex-col justify-center">
               <div className="w-[200px] m-2"></div>
-              <div className="w-[150px] m-2">
+              <div className="w-[150px] m-2 flex items-center justify-center">
                 <Image
                   src={`/carrousel-img/${image}`}
                   width={150}
@@ -29,9 +29,9 @@ export default function Carrousel() {
           ))}
 
           {IMAGES_CARROUSEL.map((image, index) => (
-            <div key={index + "duo"}>
+            <div key={index + "duo"} className="flex flex-col justify-center">
               <div className="w-[200px] m-2"></div>
-              <div className="w-[150px] m-2">
+              <div className="w-[150px] m-2 flex items-center justify-center">
                 <Image
                   src={`/carrousel-img/${image}`}
                   width={150}
