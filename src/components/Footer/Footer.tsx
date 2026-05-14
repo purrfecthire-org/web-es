@@ -74,6 +74,9 @@ const Footer = () => {
             </div>
           </div>
         </div>
+        <div className="border-t border-gray-200 pt-6 text-center">
+          <p className="poppins text-sm text-gray-400">© 2026 Purrfect Hire</p>
+        </div>
       </div>
     </footer>
   );

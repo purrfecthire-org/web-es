@@ -8,6 +8,8 @@ import AboutUsSection from "../components/AboutUsSection/AboutUsSection";
 import WorldSection from "../components/WorldSection/WorldSection";
 import CommentJoset from "../components/CommentJoset/CommentJoset";
 import OurPerks from "../components/OurPerks/OurPerks";
+import OfferAcceleration from "../components/OfferAcceleration/OfferAcceleration";
+import Why2026 from "../components/Why2026/Why2026";
 
 export default function Home() {
   return (
@@ -17,12 +19,14 @@ export default function Home() {
       <AboutUsSection />
       <WorldSection />
       <RolCards />
+      <OfferAcceleration />
       <CommentJoset />
-      <OurPerks />
       <Comments
         comments={COMMENTS_CLIENTS_CANDIDATES_DATA}
         title="Nuestros clientes y candidatos"
       />
+      <OurPerks />
+      <Why2026 />
     </>
   );
 }

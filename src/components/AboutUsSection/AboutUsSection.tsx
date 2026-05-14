@@ -18,11 +18,17 @@ export default function AboutUsSection() {
         </div>
         <div className="mb-14 lg:mb-0 lg:w-1/2 flex flex-col">
           <h1 className="poppins text-indigo-950 font-extrabold text-center lg:text-right  mb-6">
-            Nosotros
+            Sobre Purrfect Hire
           </h1>
           <p className="poppins text-gray-500 text-center lg:text-right  mb-5">
-
-          Nuestro equipo se compone de individuos apasionados y comprometidos que persiguen continuamente la excelencia. Valoramos profundamente la sinergia entre candidatos y empresas, fomentando contrataciones sólidas y la retención de talento.           </p>
+            Somos una firma boutique de contratación construida específicamente para founders en portafolios de YC, a16z y Sequoia. Trabajamos los hires senior que deciden si una empresa escala o se estanca. Antes de abrir pipeline, nos tomamos el tiempo de calibrar contra la cultura real del founder, no el JD. Luego entrenamos al talento que colocamos contra esa señal exacta.
+          </p>
+          <p className="poppins text-gray-500 text-center lg:text-right  mb-5">
+            El resultado: 160+ colocaciones, 80% de retención a 24 meses, y un sistema de loop cerrado donde lo que aprendemos de los founders afina cómo entrenamos al talento, y lo que aprendemos del talento afina a quién colocamos.
+          </p>
+          <p className="poppins text-gray-500 text-center lg:text-right  mb-5">
+            En un mercado que escala volumen sin calibración, operamos al revés: sourcear menos, calibrar más, consultar como pares.
+          </p>
         </div>
       </div>
     </section>

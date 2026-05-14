@@ -10,10 +10,11 @@ export default function MainContent() {
       <div className="padding-container max-container flex flex-wrap items-center justify-center mt-10">
         <div className="mb-14 lg:mb-0 lg:w-1/2">
           <h1 className="poppins max-w-xl leading-none text-indigo-950 font-extrabold text-center lg:text-left lg:leading-tight mb-6">
-          Contratación orientada en la cultura y resultados de alto impacto
+            Las skills consiguen el trabajo.
+            <span className="text-indigo-500 block">El fit cultural hace que te quedes.</span>
           </h1>
           <p className="poppins max-w-xl text-center text-gray-500 lg:text-left lg:max-w-md">
-          Nuestra plataforma está transformando el proceso de contratación, enfatizando en la compatibilidad cultural y las conexiones humanas significativas.
+            Colocamos talento senior de LATAM en startups de YC y a16z donde equivocarse en el hire cuesta meses de runway que no se recuperan. 160+ colocaciones. 80% de retención a 24 meses. Construido sobre juicio humano, no volumen automatizado.
           </p>
           <div className="flex justify-center mt-14 lg:justify-start">
             <button
@@ -22,7 +23,7 @@ export default function MainContent() {
               onClick={(event) =>
                 redirect(
                   event,
-                  "https://calendly.com/kate-forero/"
+                  "https://forms.gle/coJZM83rMV1GDYF79"
                 )
               }>
               Contacto
